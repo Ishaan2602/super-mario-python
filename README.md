@@ -1,3 +1,5 @@
+IshaanG's comment: I added additional player movement functionality to the source code. Pull request pending.
+
 # Super Mario Implementation in Python
 
 This is inspired by Meth-Meth-Method's [super mario game](https://github.com/meth-meth-method/super-mario/)
